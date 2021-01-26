@@ -1,5 +1,5 @@
 # RStudio-on-a-Chromebook
-Instructions for installing RStudio on a Chromebook
+Instructions for installing RStudio on a Chromebook. The full process requires approximately 20 minutes.
 
 ## Instructions
 1. In **Settings**, [Turn On **Linux (Beta)**](https://support.google.com/chromebook/answer/9145439?hl=en). This option may be unavailable if your device is too old or managed by your school.
